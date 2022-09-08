@@ -22,4 +22,4 @@ The "Customers' Cluster according to Balance and Purchases" visualization shows 
 ![image](https://user-images.githubusercontent.com/111154738/189180891-6c457326-4c17-4066-b972-56381e5a84cc.png) <hr>
 
 ### Relevant links
-<a href="https://medium.com/@workwithehiz/customer-segmentation-with-k-means-clustering-60678a83fca5">Medium</a>
+<li><a href="https://medium.com/@workwithehiz/customer-segmentation-with-k-means-clustering-60678a83fca5">Medium</a>
