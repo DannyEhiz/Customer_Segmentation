@@ -1,6 +1,6 @@
 # **Customer Segmentation**
 ### Clustering, An unsupervised learning
-![image](https://user-images.githubusercontent.com/111154738/189177987-fcbc42a6-b98b-4d1d-b788-7229655e6b51.png)
+![image](https://user-images.githubusercontent.com/111154738/189182678-46b7413e-9fd6-4398-aa39-fb5c457c59fd.png)
 This project was based mainly on segmenting customers into clusters, analysing the cluster, and making analysis-backed business recommendations <br>
 Clustering is a powerful, undirected data mining technique used in business analytics for identifying hidden patterns and structures in a vast volume of data without formulating a specific hypothesis. It has a wide range of applications and can effectively deal with a variety of issues and goals, from the smallest to the most complicated. There are several popular clustering types for each application, but we will place a focus primarily on client clustering for the purpose of this project. <p>  
 
