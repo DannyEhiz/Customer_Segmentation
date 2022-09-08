@@ -22,6 +22,6 @@ Client clustering is a method of organizing individuals based on their behavior,
             position:absolute;
             left: 50%;
         }
-    </style>
+</style>
 ![image](https://user-images.githubusercontent.com/111154738/189178793-fc8e8395-a61e-47a9-a03b-33a621047401.png)
 
