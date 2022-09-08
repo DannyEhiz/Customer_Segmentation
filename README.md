@@ -15,13 +15,8 @@ Client clustering is a method of organizing individuals based on their behavior,
 6. General Deductions and Propositions
 
 ![image](https://user-images.githubusercontent.com/111154738/189178342-a6c0d76c-a96d-402e-8283-09fac256dd02.png)
-<style>
-        .vertical {
-            border-left: 6px solid black;
-            height: 200px;
-            position:absolute;
-            left: 50%;
-        }
-</style>
-![image](https://user-images.githubusercontent.com/111154738/189178793-fc8e8395-a61e-47a9-a03b-33a621047401.png)
 
+![image](https://user-images.githubusercontent.com/111154738/189179472-48caaa18-fc4e-4731-86aa-d02d968fe8da.png)
+<hr>
+### Some of the Insights gotten
+<ul>There are lesser customers who makes installmental purchases than very often. This is an indication large proportion of the custmers rather makes payment at point of purchases or make cash advances.
