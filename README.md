@@ -7,7 +7,7 @@ Clustering is a powerful, undirected data mining technique used in business anal
 What then is Client Clustering? <br>
 Client clustering is a method of organizing individuals based on their behavior, routines, preferences, values, socioeconomic class, location, and demographics, among other factors. With Clustering, organizations optimize the quality of the messages they convey to the general public, such as product promotions with greater purchasing potential or an after-sales service tailored to the customer’s prior purchase. This strengthens consumer relationships, which consequently raises sales. <br>
 <p>
-#### Steps I took in carrying out the project
+### Steps I took in carrying out the project
 1. Imported Data
 2. Cleaning and Preparation
 3. Hypothesis Formulation
