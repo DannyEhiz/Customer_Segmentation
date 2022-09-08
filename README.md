@@ -14,9 +14,10 @@ Client clustering is a method of organizing individuals based on their behavior,
 5. Visualization and Analysis
 6. General Deductions and Propositions
 
-![image](https://user-images.githubusercontent.com/111154738/189178342-a6c0d76c-a96d-402e-8283-09fac256dd02.png)
-
-![image](https://user-images.githubusercontent.com/111154738/189179472-48caaa18-fc4e-4731-86aa-d02d968fe8da.png) <hr>
+![image](https://user-images.githubusercontent.com/111154738/189178342-a6c0d76c-a96d-402e-8283-09fac256dd02.png)<hr>
 
 ### Some of the Insights gotten
-<li>There are lesser customers who makes installmental purchases than very often. This is an indication large proportion of the custmers rather makes payment at point of purchases or make cash advances.
+A large cash balance suggests reasonable purchasing power. Consequently, a higher proportion of the consumer base maintains high balance which is an indication that the majority of the client base are middle class to high class. Despite this high balance maintained by the customers, the percentage of transactions is low, one-time purchases are low, neither prefers to buy in installment or prepayment, and more consumers are one-time buyers. This is either an indication of unclear value, lack of urgency, lack of trust, or apathy in the product or service offered by the organisation.<br>
+The "Customers' Cluster according to Balance and Purchases" visualization shows a cluster (Purple) of customers who keeps high balances but makes relatively low transactions when compared. In this same visualization are a cluster of loyal customers (Black) who are indicators of improved quality or good promotion. They are to be turned into loyal advocates of the business who promotes the business by converting more customers. Once more, there are very few consumers in this cluster. <hr>
+
+![image](https://user-images.githubusercontent.com/111154738/189179472-48caaa18-fc4e-4731-86aa-d02d968fe8da.png)
