@@ -16,8 +16,9 @@ It's a method of organizing individuals based on their behavior, routines, prefe
 5. t-SNE (t Stochastic Distributed Embedding) for Visualization
 6. Gaussian Mixture Model and 2D/3D Visualization
 7. BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies) and 2D/3D Visualization
-8. Model Interpretation and Findings
-9. General Deductions and Propositions
+8. General Metrics with Silhoutte Score, Davies Bouldin Index, and Calinski Harabasz Score
+9. Model Interpretation and Findings
+10. General Deductions and Propositions
 
 Visualization of clusters with t-SNE and 3D plot
 ![image](https://github.com/DannyEhiz/Customer_Segmentation/blob/main/WhatsApp%20Image%202023-11-01%20at%2000.21.14.jpeg?raw=true)<hr>
