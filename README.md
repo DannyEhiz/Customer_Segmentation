@@ -19,6 +19,21 @@ It's a method of organizing individuals based on their behavior, routines, prefe
 8. Model Interpretation and Findings
 9. General Deductions and Propositions
 
+Visualization of clusters with t-SNE and 3D plot
 ![image](https://github.com/DannyEhiz/Customer_Segmentation/blob/main/WhatsApp%20Image%202023-11-01%20at%2000.21.14.jpeg?raw=true)<hr>
 
-![image]() <hr>
+Visualization of clusters with Gaussian Mixture Model and 3D plot
+![image](https://github.com/DannyEhiz/Customer_Segmentation/blob/main/WhatsApp%20Image%202023-11-01%20at%2000.23.32.jpeg?raw=true) <hr>
+<br>
+Findings are:
+<ul>
+<li>Cluster Class 0: This is the cluster of customers who earn the highest income at an average of $69200, <br>
+have an average of no kid at home, and makes the most purchases at an average of 838 purchases annually.</li>
+<li>Cluster Class 1: This is the cluster of customers who earn the lowest income at an average of $30000, <br>
+have an average of just one kid at home and makes the least purchases at an average of 42 purchases annually.
+</li>
+<li>Cluster Class 2: This is cluster of customers who earn high income and makes average of 306 purchases annually, <br>
+and have an average of 1 child at home</li>
+<li>Cluster Class 3: This is the cluster of customer who earns a low income at an average of $38600 annually, <br>
+has an average of two children at home, and also makes an average of 48 purchases annually. </li>
+</ul>
