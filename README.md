@@ -19,6 +19,6 @@ It's a method of organizing individuals based on their behavior, routines, prefe
 8. Model Interpretation and Findings
 9. General Deductions and Propositions
 
-![image](https://user-images.githubusercontent.com/111154738/189178342-a6c0d76c-a96d-402e-8283-09fac256dd02.png)<hr>
+![image](https://github.com/DannyEhiz/Customer_Segmentation/blob/main/WhatsApp%20Image%202023-11-01%20at%2000.21.14.jpeg?raw=true)<hr>
 
-![image](https://user-images.githubusercontent.com/111154738/189180891-6c457326-4c17-4066-b972-56381e5a84cc.png) <hr>
+![image]() <hr>
