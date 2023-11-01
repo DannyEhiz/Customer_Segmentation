@@ -38,3 +38,5 @@ and have an average of 1 child at home</li>
 <li>Cluster Class 3: This is the cluster of customer who earns a low income at an average of $38600 annually, <br>
 has an average of two children at home, and also makes an average of 48 purchases annually. </li>
 </ul>
+
+NOTICE: Most of the visualization was done using Plotly, an interactive python plotting library. Github doesnt display interactive visuals, and so all visualizations done will not be visible on. However, I made alternative arrangements to get the development file from my LinkedIn page at linkedin.com/in/daniel-ehiz
